@@ -1,0 +1,4 @@
+Required Python Libraries:
+tkinter --> For GUI features
+sqlite3 --> For Database features
+datetime --> For Date and time formatting
